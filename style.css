@@ -1,0 +1,28 @@
+body {
+    background: #333;
+}
+
+.quote-box {
+    margin: 10% auto auto auto;
+    padding: 2rem;
+    background: white;
+    max-width: 30rem;
+}
+
+.fa-twitter {
+    color: white
+}
+
+.button{
+    color: white;
+}
+
+.button:hover{
+    color: white;
+}
+
+.footer > a {
+    font-weight:500;
+    text-decoration:underline;
+    color:#fff;
+  }
